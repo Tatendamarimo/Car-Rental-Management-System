@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Carrentalsystem
+</name>
+</assembly>
+<members>
+<member name="T:Carrentalsystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources._1dba88e10a0d028a002d4c7e4645b1c2_1_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources._2016_10best_cars_lead_photo_664005_s_original">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources._2021112309104784469">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.cars_lineup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.DG019_228CL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.HD_wallpaper_luxury_car_service_in_baltimore_limo_rental_baltimore_party_bus_rentals_in_baltimore_limo_service_in_dc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.landscape_1459819192_mph_club_a">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.LoginIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.onroadzcarrental_cover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.small_p266908_n277810">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carrentalsystem.My.Resources.Resources.user_login_man_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
