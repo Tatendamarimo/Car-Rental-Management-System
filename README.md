@@ -1,6 +1,6 @@
 # Car Rental System
 
-The Dream Ride Car Rental System is a computer-based application developed in Visual Basic and .NET for Windows. It automates vehicle reservations, payment processing, customer record keeping, and vehicle maintenance scheduling for a car rental company.
+The Dream Ride Car Rental System is a Desktop application developed in Visual Basic and .NET for Windows. It automates vehicle reservations, payment processing, customer record keeping, and vehicle maintenance scheduling for a car rental company.
 
 ## Features
 
