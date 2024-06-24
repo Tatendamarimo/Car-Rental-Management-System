@@ -11,7 +11,7 @@ The Dream Ride Car Rental System is a computer-based application developed in Vi
 - **Reporting:** Generate reports on fleet utilization, revenue, and customer satisfaction.
 - **Admin Authentication:** Secure login for administrators to manage system settings and access sensitive information.
 - **Image Uploading:** Upload vehicle images for customer viewing during the reservation process.
-- **Database:** Store and manage data related to vehicles, customers, reservations, payments, and administrative settings using Microsoft Access.
+- **Database:** Store and manage data related to vehicles, customers, reservations, payments, and using Microsoft Access.
 
 ## Installation
 
