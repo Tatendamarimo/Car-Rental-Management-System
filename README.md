@@ -27,7 +27,7 @@ Follow these steps to install and run the Dream Ride Car Rental System on your s
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/dream-ride-car-rental.git
+   git clone https://github.com/Tatendamarimo/Car-Rental-Management-System.git
    cd dream-ride-car-rental
    ```
 
